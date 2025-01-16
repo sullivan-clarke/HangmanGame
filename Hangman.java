@@ -1,8 +1,4 @@
 /* Program Name: Hangman Program
- * Student Name: Sullivan Clarke
- * Student ID: 000-69-9503
- * NetID: sclarke9
- * Date: 12/3/2024
  * Description: This program allows two users the play 
  * a game of hangman as many times as they would like. 
  */
